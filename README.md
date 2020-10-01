@@ -21,3 +21,4 @@ The data set contains 699 instances and 12 inputs. They are:
     13. area - the burned area of the forest (in ha): 0.00 to 1090.84
 
 .
+ML project
